@@ -1,0 +1,118 @@
+*
+{
+	background-color: #AD7B2F;
+}
+h1
+{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 462%;
+	color: #9EAD2F;
+}
+h3
+{
+	font-family: unset;
+	font-size: 200%;
+}
+#bio
+{
+	color: #FBF709;
+	text-decoration: underline dashed;
+}
+#car
+{
+	color: #EEED8C;
+	text-decoration: underline dotted;
+}
+#debut
+{
+	color: #F7F7D1;
+	text-decoration: underline solid;
+}
+#glov
+{
+	color: #FFFFEC;
+	text-decoration: underline wavy;
+}
+#ade
+{
+	color: #FFFDD0;
+	text-decoration: underline;
+}
+#prim
+{
+	color: #A0CB17;
+	font-size: 120%;
+	font-family: serif;
+}
+#segu
+{
+	color: #AEF45B;
+	font-size: 120%;
+	font-family: serif
+}
+#terc
+{
+	color: #667631;
+	font-size: 120%;
+	font-family: serif
+}
+#cuar
+{
+	color: #43530F;
+	font-size: 120%;
+	font-family: serif	
+}
+#quin
+{
+	color: #4D6207;
+	font-size: 120%;
+	font-family: serif
+}
+#sext
+{
+	color: #3B4B09;
+	font-size: 120%;
+	font-family: serif	
+}
+#sep
+{
+	color: #CBFF8D;
+	font-size: 120%;
+	font-family: serif	
+}
+#oc
+{
+	color: #CBFA93;
+	font-size: 120%;
+	font-family: serif	
+}
+#nov
+{
+	color: #BFDD9B;
+	font-size: 120%;
+	font-family: serif	
+}
+ul
+{
+	list-style-type: georgian;
+}
+li
+{
+	font-size: 120%;
+	font-family: serif	
+}
+img
+{
+	float: right;
+	padding-right: 15%;
+	padding-top: 4.4%;
+	padding-bottom: 2%;
+	height: 25%;
+	width: 25%;
+}
+#volver
+{
+	font-family: cursive;
+	font-size: 120%;
+}

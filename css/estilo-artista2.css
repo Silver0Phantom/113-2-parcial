@@ -1,0 +1,48 @@
+*
+{
+	background-color: #DF1010;
+}
+h1
+{
+	font-family: unset;
+	text-align: center;
+	color: #21AF62;
+	text-decoration: underline wavy #21AF62;
+	font-size: 290%;
+}
+h3
+{
+	font-family: unset;
+	color: #21AF62;
+	font-size: 190%;
+}
+p
+{
+	font-family: monospace;
+	font-size: 125%;
+}
+b
+{
+	font-family: monospace;
+	font-size: 128%;
+}
+li
+{
+	font-family: monospace;
+	font-size: 125%;
+	list-style-type: square;
+}
+img
+{
+	float: right;
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	height: 30%;
+	width: 30%;
+}
+#volver
+{
+	font-family: cursive;
+	font-size: 120%;
+}

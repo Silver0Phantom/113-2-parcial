@@ -1,0 +1,60 @@
+*
+{
+	background-color: #2A63DE;
+}
+h1
+{
+	text-align: center;
+	font-size: 435%;
+	color: #2ADE63;
+	text-decoration: underline #2ADE63;
+}
+h3
+{
+	font-family: cursive;
+	font-size: 190%;
+	color: #2ADE63;
+}
+p
+{
+	font-family: serif;
+	font-size: 135%;
+}
+table
+{
+	border: #5DBB12 2px solid;
+}
+th	
+{
+	font-family: cursive;	
+	border: #5DBB12 1px solid;
+	font-size: 150%;
+}
+td
+{
+	border: #5DBB12 1px solid;
+	font-size: 135%;
+	font-family: cursive;
+}
+li
+{
+	list-style-type: katakana;
+}
+img
+{
+	height: 50%;
+	width: 35%;
+	margin: 2%;
+}
+#volver
+{
+	font-family: cursive;
+	font-size: 120%;
+}
+@media(orientation:landscape)
+{
+	img{
+
+	}
+
+}

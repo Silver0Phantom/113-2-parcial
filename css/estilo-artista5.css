@@ -1,0 +1,41 @@
+*
+{
+	background-color: #F9F905 ;
+}
+h1
+{
+	text-align: center;
+	font-family: serif;
+	font-size: 465%;
+	text-decoration: underline wavy;
+	color: #1B26CA;
+}
+h3
+{
+	background-color: blue;
+	color: white;
+	font-size: 200%;
+}
+p
+{
+	font-size: 130%;
+	font-family: cursive;
+}
+li
+{
+	font-size: 130%;
+	font-family: cursive;
+}
+img
+{
+	float: right;
+	padding-right: 12%;
+	padding-top: 8%;
+	height: 35%;
+	width: 35%;
+}
+#volver
+{
+	font-family: cursive;
+	font-size: 120%;
+}

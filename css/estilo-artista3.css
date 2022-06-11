@@ -1,0 +1,65 @@
+*
+{
+	background-color: #7A2F92;
+}
+h1
+{
+	font-family: inherit;
+	text-align: center;
+	text-decoration: underline pink;
+	font-size: 440%;
+}
+h3
+{
+	font-family: inherit;
+	font-size: 200%;
+}
+section
+{
+	font-family: cursive;
+	color: pink;
+	font-size: 120%;
+}
+p
+{
+	background-color: #C973E3;
+}
+img
+{
+	float: right;
+	padding-right: 5%;
+	padding-top: 8%;
+	height: 32%;
+	width: 32%;
+}
+ul
+{
+	list-style: square;
+}
+li
+{
+	font-size: 120%;
+	font-family: cursive;
+}
+th
+{
+	border: #E3D4F0 2px dotted;
+	font-family: monospace;
+	font-size: 150%;
+}
+tr
+{
+	border: #E3D4F0 2px dotted;
+}
+td
+{
+	border: #E3D4F0 2px dotted;
+	font-size: 120%;
+	font-family: sans-serif;
+}
+#volver
+{
+	font-family: cursive;
+	color: white;
+	font-size: 120%;
+}
